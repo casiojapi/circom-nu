@@ -1,0 +1,16 @@
+{
+  "name": "mimc",
+  "version": "1.0.0",
+  "main": "genConstants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ethers": "^6.12.1",
+    "web3": "^4.8.0"
+  }
+}
